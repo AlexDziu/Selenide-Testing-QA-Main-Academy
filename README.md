@@ -11,7 +11,6 @@ Test #1
 6. Check that "Your Message: Hello, my name is <your name>" appears under button Show Message
 
 
-
 Test #2
 1. Go to the https://www.seleniumeasy.com/test/
 2. Click on the "Input Forms"
@@ -133,7 +132,6 @@ Test #14
 4. Select option: Alice, Laura, Giovanna
 5. Click on the "Add" button
 6. Check two options Alice, Laura, Giovanna appears on the right side of the list
-
 
 
 Test #15

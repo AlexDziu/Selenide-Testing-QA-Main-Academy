@@ -2,10 +2,11 @@ package selenideTest;
 
 import org.junit.Test;
 import org.openqa.selenium.By;
+
 import static com.codeborne.selenide.Selenide.*;
 import static com.codeborne.selenide.Condition.*;
 
-public class Test1 extends BaseTest{
+public class Test1 extends BaseTest {
     By inputForm = By.xpath("//a[text()='Input Forms']");
     By simpleFormDemo = By.xpath("//*[@id='treemenu']//a[text()='Simple Form Demo']");
     By inputElement = By.xpath("//input[@id='user-message']");
